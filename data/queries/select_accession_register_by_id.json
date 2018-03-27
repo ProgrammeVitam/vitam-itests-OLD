@@ -1,0 +1,9 @@
+{
+	"$query": {
+		"$eq": {
+			"OperationIds": "Operation-Id"
+		}
+	},
+	"$projection": {},
+	"$filter": {}
+}

@@ -1,0 +1,13 @@
+{
+	"$query": {
+		"$and": [
+			{
+				"$match": {
+					"Description": "Zimbabwe"
+				}
+			}
+		]
+	},
+	"$filter": { "$orderby": { "Name": -1 } },
+	"$projection": {}
+}
