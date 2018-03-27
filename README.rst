@@ -5,7 +5,7 @@ VITAM Itests
 
 .. section-numbering::
 
-.. image:: LogoVitamGrand2.png
+.. image:: logo_vitam.png
         :alt: Logo Vitam (Bêta)
         :align: center
 
