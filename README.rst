@@ -9,8 +9,8 @@ VITAM Itests
         :alt: Logo Vitam (Bêta)
         :align: center
 
-Le projet Vita Itests
-=====================
+Le projet Vitam Itests
+======================
 
 Il a pour objectif :
 
