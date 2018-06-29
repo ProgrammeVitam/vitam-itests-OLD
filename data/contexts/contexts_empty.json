@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "My_Context_i8",
+    "Status":"ACTIVE",
+    "SecurityProfile": "admin-security-profile",
+    "Permissions": [
+      {
+        "tenant": 1,
+        "AccessContracts": [],
+        "IngestContracts": []
+      },
+      {
+        "tenant": 0,
+        "AccessContracts": [],
+        "IngestContracts": []
+      }
+    ]
+  },
+  {
+    "Name": "My_Context_86",
+    "Status":"INACTIVE",
+    "SecurityProfile": "admin-security-profile",
+    "Permissions": [
+      {
+        "tenant": 0,
+        "AccessContracts": [],
+        "IngestContracts": []
+      },
+      {
+        "tenant": 1,
+        "AccessContracts": [],
+        "IngestContracts": []
+      }
+    ]
+  }
+]

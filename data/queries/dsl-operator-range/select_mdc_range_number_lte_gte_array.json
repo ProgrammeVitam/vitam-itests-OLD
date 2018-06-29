@@ -1,0 +1,30 @@
+{
+     "$roots": [],
+     "$query": [
+          {
+               "$and": [
+                    {
+                         "$in": {
+                              "#operations": [
+                                   "Operation-Id"
+                              ]
+                         }
+                    }
+               ]
+          },
+          {
+               "$range": {
+                    "DataNumber2": {
+                         "$gte": 0,
+                         "$lte": 0
+                    }
+               },
+               "$depth": 0
+          }
+     ],
+     "$projection": {
+          "$fields": {
+               "#id": 1
+          }
+     }
+}

@@ -1,0 +1,10 @@
+{
+	"$action": [
+		{
+			"$set": {
+				"Title": "Rectorat de Seine-Et-Marne",
+				"Description": "Dossier relatifs aux secteurs publics et privés"
+			}
+		}
+	]
+}
