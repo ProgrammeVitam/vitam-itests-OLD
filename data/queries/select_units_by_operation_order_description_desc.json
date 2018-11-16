@@ -1,0 +1,22 @@
+{
+	"$roots": [],
+	"$query": [
+		{
+			"$and": [
+				{
+					"$in": {
+						"#operations": [
+							"Operation-Id"
+						]
+					}
+				}
+			]
+		},
+		{
+			"$match": { "Description" : "Description" },
+			"$depth": 0	
+		}
+	],
+	"$filter": { "$orderby": { "OriginatingSystemId": 1 } },
+	"$projection": {}
+}
