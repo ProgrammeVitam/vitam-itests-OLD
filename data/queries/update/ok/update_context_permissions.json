@@ -1,0 +1,21 @@
+{
+  "$action": [
+    {
+      "$set": {
+        "EnableControl": true,
+        "Permissions": [
+          {
+            tenant": 0,
+            "AccessContracts": ["ContratTNR", "contract_with_field_EveryDataObjectVersion"],
+            "IngestContracts": ["ArchivalAgreement0", "ArchivalAgreement1", "ArchivalAgreement0Test"]
+          },
+          {
+            "tenant": 1,
+            "AccessContracts": ["ContratTNR", "contract_with_field_EveryDataObjectVersion"],
+            "IngestContracts": ["ArchivalAgreement0", "ArchivalAgreement1", "ArchivalAgreement0Test", "ArchivalAgreementWithProfil"]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "Identifier":"Zimbabwe_ZIM_archives_nationales",
+        "Name":"Zimbabwe - ZIM archives nationales",
+        "Description":"Zimbabwe - Contrat d'accès - SIA archives nationales",
+        "Status" : "ACTIVE",
+        "LastUpdate":"10/12/2016",
+        "CreationDate":"10/12/2016",
+        "ActivationDate":"10/12/2016",
+        "DeactivationDate":"10/12/2016",
+        "OriginatingAgencies":["FRAAA","BBBBB","CCCCC"]
+    },
+    {
+        "Identifier":"Zimbabwe_Societe_archeologique_du_Zimbabwe",
+        "Name":"Zimbabwe - Société archéologique du Zimbabwe",
+        "Description":"Zimbabwe - Contrat d'accès - Société archéologique de Touraine",
+        "Status" : "ACTIVE",
+        "LastUpdate":"10/12/2016",
+        "CreationDate":"10/12/2016",
+        "ActivationDate":"10/12/2016",
+        "DeactivationDate":"10/12/2016",
+        "OriginatingAgencies":["FRAAA","BBBBB","CCCCC"]
+    },
+    {
+        "Identifier":"Zimbabwe_Air_Zimbabwe",
+        "Name":"Zimbabwe - Air Zimbabwe",
+        "Description":"Zimbabwe - Contrat d'accès - Air Zimbabwe",
+        "Status" : "INACTIVE",
+        "LastUpdate":"10/12/2016",
+        "CreationDate":"10/12/2016",
+        "ActivationDate":"10/12/2016",
+        "DeactivationDate":"10/12/2016",
+        "OriginatingAgencies":["FRAAA","BBBBB","CCCCC"]
+    }
+]
