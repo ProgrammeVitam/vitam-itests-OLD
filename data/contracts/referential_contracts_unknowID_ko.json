@@ -1,0 +1,14 @@
+[
+	{
+		"Name":"contrat_de_rattachement",
+		"Identifier":"contrat_de_rattachement",
+		"Description":"Rattachant les SIP à une AU",
+		"Status" : "ACTIVE",
+		"LastUpdate":"10/12/2016",
+		"CreationDate":"10/12/2016",
+		"ActivationDate":"10/12/2016",
+		"DeactivationDate":"10/12/2016",
+		"LinkParentId": "not_an_ID"
+	}
+
+]
