@@ -1,0 +1,13 @@
+{
+	"$query": {
+		"$and": [
+			{
+				"$match": {
+					"Name": "acrobat"
+				}
+			}
+		]
+	},
+	"$filter": { "$orderby": { "PUID": 1 } },
+	"$projection": {}
+}
