@@ -1,0 +1,12 @@
+{
+  "$query": {
+    "$and": [
+      {
+        "$eq": {
+          "Identifier": "MCNoStorage"
+        }
+      }
+    ]
+  },
+  "$projection": {}
+}
