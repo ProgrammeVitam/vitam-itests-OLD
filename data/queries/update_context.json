@@ -1,0 +1,25 @@
+{
+  "$action": [
+    {
+      "$set": {
+        "Permissions": [
+          {
+            "tenant": 0,
+            "AccessContracts": [],
+            "IngestContracts": []
+          },
+          {
+            "tenant": 1,
+            "AccessContracts": [],
+            "IngestContracts": []
+          },
+          {
+            "tenant": 2,
+            "AccessContracts": [],
+            "IngestContracts": []
+          }
+        ]
+      }
+    }
+  ]
+}

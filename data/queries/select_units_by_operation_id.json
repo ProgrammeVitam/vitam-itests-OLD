@@ -1,0 +1,14 @@
+{
+	"$roots": [],
+	"$query": [
+		{
+			"$in": {
+				"#operations": [
+					"Operation-Id"
+				]
+			}
+		}
+	],
+	"$filter": {},
+	"$projection": {}
+}

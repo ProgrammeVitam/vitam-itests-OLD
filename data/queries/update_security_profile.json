@@ -1,0 +1,11 @@
+{
+  "$action": [
+      {
+          "$set": {
+              "Permissions": [
+                  "contexts:read"
+               ]
+           }
+       }
+  ]
+}

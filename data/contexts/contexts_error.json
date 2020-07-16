@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "My_Context_1",
+    "Identifier": "CONTEXT_KO_6",
+
+    "Status":"ACTIVE",
+    "SecurityProfile": "admin-security-profile",
+    "Permissions": [
+      {
+        "tenant": 1,
+        "AccessContracts": [],
+        "IngestContracts": []
+      },
+      {
+        "tenant": 0,
+        "AccessContracts": ["AC-INVALIDE"],
+        "IngestContracts": []
+      }
+    ]
+  },
+  {
+    "Identifier": "CONTEXT_KO_8",
+
+    "Name": "My_Context_2",
+    "Status":"INACTIVE",
+    "SecurityProfile": "admin-security-profile",
+    "Permissions": [
+      {
+        "tenant": 0,
+        "AccessContracts": [],
+        "IngestContracts": []
+      },
+      {
+        "tenant": 1,
+        "AccessContracts": [],
+        "IngestContracts": []
+      }
+    ]
+  }
+]
